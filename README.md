@@ -1,0 +1,3 @@
+# gui24
+Easy to use library to draw Gui on 2.4" tft touchscreen and Arduino Mega. Based on Adafruit SPFD5408 libs.
+Coming soon...
